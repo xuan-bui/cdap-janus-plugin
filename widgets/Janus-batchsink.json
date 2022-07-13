@@ -62,9 +62,9 @@
         {
           "name": "recordToVertexConfigurer",
           "label": "Record To Vertex Configurer",
-          "widget-type": "json-editor",
+          "widget-type": "graph-data-editor",
           "widget-attributes": {
-            "default": "{\n  \"NODE_LIST\": [\n    {\n      \"label\": \"Field1\",\n      \"id\": \"Field2\",\n      \"isHardCodedLabel\": true,\n      \"properties\": [\n        \"Field3\",\n        \"Field4\"\n      ]\n    }\n  ],\n  \"EDGE_LIST\": [\n    {\n      \"label\": \"Field1\",\n      \"id\": \"Field2\",\n      \"isHardCodedLabel\": true,\n      \"fromLabel\": \"fromLabel\",\n      \"toLabel\": \"toLabel\",\n      \"properties\": [\n        \"Field3\",\n        \"Field4\"\n      ]\n    }\n  ]\n}"
+            "graphManagementApi": "https://1216c360-c289-4d5d-a037-cd93adfb492c.mock.pstmn.io/"
           }
         },
         {
